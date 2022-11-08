@@ -8,3 +8,7 @@
 
 <H1>Hello world!</H1>
 ...
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
